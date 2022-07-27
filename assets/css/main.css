@@ -1937,6 +1937,10 @@ input, select, textarea {
 			text-align: center;
 		}
 
+		.language-selection {
+			font-size: 0.8em;
+		}
+
 /* Nav */
 
 	#nav {
